@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2C5D4269-5EE6-68B3-F919-7BB87B327B14}") = "Orion Exudus", "Assembly-CSharp.csproj", "{C5D8ED67-6AA8-DB37-1344-E5EC8C33E2B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D8ED67-6AA8-DB37-1344-E5EC8C33E2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D8ED67-6AA8-DB37-1344-E5EC8C33E2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D8ED67-6AA8-DB37-1344-E5EC8C33E2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D8ED67-6AA8-DB37-1344-E5EC8C33E2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
