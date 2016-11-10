@@ -19,7 +19,7 @@ public class Events : MonoBehaviour {
 			if (Input.GetMouseButtonUp (0)&& (dios.GetComponent<Variables>().c- distancia) >= 0) {
 				move = true;
 				dios.GetComponent<EventsGenerator>().MostrarEvento();
-				dios.GetComponent<Variables> ().c -= distancia;
+				dios.GetComponent<Variables> ().GastarCombustible ();
 				print (transform.position.x - player [0].transform.position.x); 
 			}
 		}

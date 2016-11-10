@@ -45,8 +45,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CSV2Table\Demo\C2TDemo.cs" />
+     <Compile Include="Assets\CSV2Table\Demo\SampleTable.cs" />
+     <Compile Include="Assets\CSV2Table\Scripts\CsvParser.cs" />
+     <Compile Include="Assets\CSV2Table\Scripts\CsvParser2.cs" />
+     <Compile Include="Assets\CSV2Table\Scripts\TableCodeGen.cs" />
      <Compile Include="Assets\Juego\Scripts\Events.cs" />
      <Compile Include="Assets\Juego\Scripts\EventsGenerator.cs" />
+     <Compile Include="Assets\Juego\Scripts\Excel.cs" />
      <Compile Include="Assets\Juego\Scripts\MapGenerator.cs" />
      <Compile Include="Assets\Juego\Scripts\Variables.cs" />
      <Compile Include="Assets\Menu_Principal\Scripts\CambiarPantalla.cs" />
